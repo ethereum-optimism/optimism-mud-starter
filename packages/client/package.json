@@ -1,0 +1,38 @@
+{
+  "name": "client",
+  "version": "0.0.0",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "initialize": "pnpm build",
+    "preview": "vite preview",
+    "test": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@ethersproject/providers": "^5.7.2",
+    "@latticexyz/dev-tools": "2.0.0-alpha.1.115+3dd17edb",
+    "@latticexyz/network": "2.0.0-alpha.1.115+3dd17edb",
+    "@latticexyz/react": "2.0.0-alpha.1.115+3dd17edb",
+    "@latticexyz/recs": "2.0.0-alpha.1.115+3dd17edb",
+    "@latticexyz/schema-type": "2.0.0-alpha.1.115+3dd17edb",
+    "@latticexyz/std-client": "2.0.0-alpha.1.115+3dd17edb",
+    "@latticexyz/utils": "2.0.0-alpha.1.115+3dd17edb",
+    "@latticexyz/world": "2.0.0-alpha.1.115+3dd17edb",
+    "@wagmi/chains": "^0.2.22",
+    "contracts": "workspace:*",
+    "ethers": "^5.7.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.6",
+    "@types/react-dom": "^18.2.4",
+    "@vitejs/plugin-react": "^3.1.0",
+    "eslint-plugin-react": "7.31.11",
+    "eslint-plugin-react-hooks": "4.6.0",
+    "vite": "^4.2.1"
+  }
+}
