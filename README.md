@@ -14,15 +14,15 @@
   </div>
 </div>
 
-This is a [Optimism](https://github.com/ethereum-optimism) + [mud](https://github.com/latticexyz/mud)
+This is a [Optimism](https://github.com/ethereum-optimism) + [MUD](https://github.com/latticexyz/mud)
 
 ## Who is this for?
 
-Mud is a full-stack Dapp development framework. Think of it as the Ruby-on-Rails or NEXT.js of Dapp development.
+MUD is a full-stack Dapp development framework. Think of it as the Ruby-on-Rails or NEXT.js of Dapp development.
 
 It comes with the following features
 
-- Automatic indexer generation with [Mud storage](https://v2.mud.dev/mode)
+- Automatic indexer generation with [MUD storage](https://v2.mud.dev/mode)
 - Automatic frontend SDK generation to the [mud store](https://v2.mud.dev/store/reading-and-writing)
 - Uniquely [gas efficient storage](https://v2.mud.dev/store/gas-efficiency)
 - An amazing [cli](https://v2.mud.dev/cli) with great code generation tools
@@ -32,11 +32,11 @@ This starter is a great choice for any of the following groups:
 - Hackers hacking on [Optimism](https://www.optimism.io/)
 - Hackers interested in trying out an opinionated full stack framework
 
-Mud2 is in alpha. Looking for a more traditional starterkit? Check out [Optimism Starter](https://github.com/ethereum-optimism/optimism-starter)
+MUD2 is in alpha. Looking for a more traditional starterkit? Check out [Optimism Starter](https://github.com/ethereum-optimism/optimism-starter)
 
-## Why mud?
+## Why MUD?
 
-Mud takes care of all the plumbing of building blockchain-based applications so you can focus on your application logic.
+MUD takes care of all the plumbing of building blockchain-based applications so you can focus on your application logic.
 
 TODO link a video here
 
@@ -64,7 +64,7 @@ You will need to install [Foundry](https://book.getfoundry.sh/getting-started/in
 
 ### Install pnpm
 
-Pnpm is the package manager Mud uses. It's usage is very similar to NPM but speed is much faster
+Pnpm is the package manager MUD uses. It's usage is very similar to NPM but speed is much faster
 
 ```bash
 npm install pnpm --global
@@ -108,13 +108,13 @@ See below for general usage instructions or [FAQ](./FAQ.md) for answers to gener
 - [Where to get goerli eth]().
 - [How to deploy a public version of your app](./FAQ.md#how-do-i-deploy-this).
 
-## Check out the Mud documentation
+## Check out the MUD documentation
 
-Mud is in Alpha so make sure to check out the [official mud documentation](https://v2.mud.dev/) for latest usage instructions.
+MUD is in Alpha so make sure to check out the [official MUD documentation](https://v2.mud.dev/) for latest usage instructions.
 
-## Join the Mud discord
+## Join the MUD discord
 
-Mud has a vibrant community ready to help. [Join the discord](https://discord.com/invite/CzXAgtFqgq) to share your Mud project or ask any questions.
+MUD has a vibrant community ready to help. [Join the discord](https://discord.com/invite/CzXAgtFqgq) to share your MUD project or ask any questions.
 
 ## Set up environment
 
@@ -132,12 +132,12 @@ Mud has a vibrant community ready to help. [Join the discord](https://discord.co
 Looking to use burner wallets? Prefer hardhat? Prefer NEXT.js? Check out these amazing alternatives:
 
 - [optimism starter](https://github.com/ethereum-optimism/optimism-starter) - A more traditional wagmi/viem based starterkit
-- [create mud](https://v2.mud.dev/cli#create) - This starterkit uses the react template. Mud offers a vanillajs version too
+- [create mud](https://v2.mud.dev/cli#create) - This starterkit uses the react template. MUD offers a vanillajs version too
 - [create wagmi cli](https://wagmi.sh/cli/create-wagmi) - A flexible cli with many templates (this starterkit was started from vite-react-cli-foundry)
 - [scaffold-eth](https://github.com/scaffold-eth/se-2) - The new 2nd version of a popular NEXT.js based starter including hardhat, burner wallets, great documentation, and an active telegram for support
 
 ## Learn more
 
-- [Mud Documentation](https://v2.mud.dev/) – learn about wagmi Hooks and API.
+- [MUD Documentation](https://v2.mud.dev/) – learn about wagmi Hooks and API.
 - [Foundry Documentation](https://book.getfoundry.sh/) – learn more about the Foundry stack (Anvil, Forge, etc).
 - [Vite Documentation](https://vitejs.dev/) – learn about Vite features and API.
