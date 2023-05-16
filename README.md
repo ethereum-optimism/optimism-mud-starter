@@ -72,8 +72,6 @@ npm install pnpm --global
 
 ## Start the application
 
-<img width="450" alt="starter-app-screenshot" src="https://user-images.githubusercontent.com/389705/225778318-4e6fb8c0-c5d7-4aea-9fc2-2efd17ca435c.png">
-
 1. Clone/fork the optimism-mud-starter repo
 
    ```sh
