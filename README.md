@@ -1,10 +1,17 @@
 <div align="center">
+  <div align="center">
+  <a href="https://v2.mud.dev/"><img width="205" alt="mud logo" src="https://github.com/ethereum-optimism/optimism-mud-starter/assets/35039927/598580a6-0da5-40bc-8b5b-8a3f4a45a29a">
+  </a>
+  <br />
+  <br />
+  ✦
   <br />
   <br />
   <a href="https://optimism.io"><img alt="Optimism" src="https://raw.githubusercontent.com/ethereum-optimism/brand-kit/main/assets/svg/OPTIMISM-R.svg" width=320></a>
   <br />
-  <h2><a href="https://optimism.io">Optimism</a> starterkit.</h2>
+  <h2><a href="https://optimism.io">Optimism Mud</a> starterkit.</h2>
   <br />
+  </div>
 </div>
 
 This is a [Optimism](https://github.com/ethereum-optimism) + [mud](https://github.com/latticexyz/mud)
