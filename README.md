@@ -20,6 +20,8 @@ This is a [Optimism](https://github.com/ethereum-optimism) + [MUD](https://githu
 
 MUD is a full-stack Dapp development framework. Think of it as the Ruby-on-Rails or NEXT.js of Dapp development.
 
+![image](https://github.com/ethereum-optimism/optimism-mud-starter/assets/35039927/d5a99b42-6746-43fc-b392-d427961fa1ee)
+
 It comes with the following features:
 
 - Automatic indexer generation with [MUD storage](https://v2.mud.dev/mode)
@@ -42,7 +44,7 @@ MUD takes care of all the plumbing of building blockchain-based applications so 
 
 Go take a deep dive at [mud.dev](https://mud.dev/)! You'll be as excited as we are.
 
-[![Mud 101](https://img.youtube.com/vi/eaLv0FNEf8A/0.jpg)](https://www.youtube.com/watch?v=eaLv0FNEf8A)
+[![MUD 101](https://img.youtube.com/vi/IjxzJjJJSs8/0.jpg)](https://www.youtube.com/watch?v=IjxzJjJJSs8)
 
 ## Getting Started
 
