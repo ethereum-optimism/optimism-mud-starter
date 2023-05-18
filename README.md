@@ -14,7 +14,7 @@
   </div>
 </div>
 
-This is a [Optimism](https://github.com/ethereum-optimism) + [MUD](https://github.com/latticexyz/mud)
+This is a [Optimism](https://github.com/ethereum-optimism) + [MUD](https://github.com/latticexyz/mud) project built with ❤ for hackers.
 
 ## Who is this for?
 
@@ -32,13 +32,14 @@ This starter is a great choice for any of the following groups:
 - Hackers hacking on [Optimism](https://www.optimism.io/)
 - Hackers interested in trying out an opinionated full stack framework
 
-MUD2 is in alpha. Looking for a more traditional starterkit? Check out [Optimism Starter](https://github.com/ethereum-optimism/optimism-starter)
+MUD2 is in alpha. Looking for a more traditional starterkit? Check out [Optimism Starter](https://github.com/ethereum-optimism/optimism-starter).
 
 ## Why MUD?
 
-MUD takes care of all the plumbing of building blockchain-based applications so you can focus on your application logic.
+MUD takes care of all the plumbing of building blockchain-based applications so you can focus on your application logic. In the MUD builders' own words: 
+> MUD is a framework for ambitious Ethereum applications. It compresses the complexity of building EVM apps with a tightly integrated software stack.
 
-TODO link a video here
+Go take a deep dive at [mud.dev](https://mud.dev/)! You'll be as excited as we are. 
 
 ## Getting Started
 
